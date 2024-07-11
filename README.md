@@ -78,9 +78,12 @@
 
 *Ref 12: Negative quantity*
 
--If you were to add ProductId 1 to 50 with Intruder.
+-If you were to add ProductId 1 to 50 with Intruder (see Ref 13), you will discover an unlisted product (see Ref 14), "Christmas Super-Surprise-Box (2014 Edition)". A no-no. 
 
 <img src="https://i.imgur.com/xsjGuIv.png" width="400" />
 
 *Ref 13: ProductId 1 to 50*
 
+<img src="https://i.imgur.com/ldO3ctH.png" width="400" />
+
+*Ref 14: Unlisted Product "Christmas Super-Surprise-Box (2014 Edition)"*
